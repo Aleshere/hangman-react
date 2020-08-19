@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aleshere/hangman-react/static/css/main.bab13ed4.chunk.css",
+    "main.js": "/Aleshere/hangman-react/static/js/main.e5454dab.chunk.js",
+    "main.js.map": "/Aleshere/hangman-react/static/js/main.e5454dab.chunk.js.map",
+    "runtime-main.js": "/Aleshere/hangman-react/static/js/runtime-main.13f67ff2.js",
+    "runtime-main.js.map": "/Aleshere/hangman-react/static/js/runtime-main.13f67ff2.js.map",
+    "static/js/2.907532aa.chunk.js": "/Aleshere/hangman-react/static/js/2.907532aa.chunk.js",
+    "static/js/2.907532aa.chunk.js.map": "/Aleshere/hangman-react/static/js/2.907532aa.chunk.js.map",
+    "index.html": "/Aleshere/hangman-react/index.html",
+    "precache-manifest.b6089f7e20304afd6278b47060325098.js": "/Aleshere/hangman-react/precache-manifest.b6089f7e20304afd6278b47060325098.js",
+    "service-worker.js": "/Aleshere/hangman-react/service-worker.js",
+    "static/css/main.bab13ed4.chunk.css.map": "/Aleshere/hangman-react/static/css/main.bab13ed4.chunk.css.map",
+    "static/js/2.907532aa.chunk.js.LICENSE.txt": "/Aleshere/hangman-react/static/js/2.907532aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13f67ff2.js",
+    "static/js/2.907532aa.chunk.js",
+    "static/css/main.bab13ed4.chunk.css",
+    "static/js/main.e5454dab.chunk.js"
+  ]
+}
