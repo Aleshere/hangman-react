@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/Aleshere/hangman-react",
+  "homepage": "https://Aleshere.github.io/hangman-react",
   "eslintConfig": {
     "extends": "react-app"
   },
